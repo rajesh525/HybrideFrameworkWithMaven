@@ -1,0 +1,10 @@
+com\MavenHybrideFramework\testCases\TC_LoginDDT_002.class
+com\MavenHybrideFramework\pageObjects\LoginPage.class
+com\MavenHybrideFramework\testCases\TC_AddCustomerTest_003.class
+com\MavenHybrideFramework\testCases\BaseClass.class
+com\MavenHybrideFramework\utilities\ReadConfig.class
+com\MavenHybrideFramework\testCases\EditCustomer.class
+com\MavenHybrideFramework\pageObjects\AddCustomerPage.class
+com\MavenHybrideFramework\testCases\TC_LoginTest_001.class
+com\MavenHybrideFramework\utilities\Reporting.class
+com\MavenHybrideFramework\utilities\XLUtils.class
