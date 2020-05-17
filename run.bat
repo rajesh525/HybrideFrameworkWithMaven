@@ -1,2 +1,2 @@
-cd C:\Users\admin\myworkspace\inetBankingV1
+cd E:\eclipse\MavenHybrideFrmwk
 mvn clean install
