@@ -4,7 +4,7 @@ pipeline{
     stage('Clean Source'){
       steps{
         withMaven(maven:'Maven'){
-          bat 'mvn clean '
+          bat 'mvn clean'
         }
       }
     }
